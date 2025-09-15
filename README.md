@@ -11,6 +11,6 @@ Nama  : Rizki M Nur
 NPM   : 07352211106
 Kelas : 5IF2
 
-
-- Cara Menjalankan Program
+-----
+Cara Menjalankan Program
 ```dart direktori/nama_file.dart```
