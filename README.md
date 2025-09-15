@@ -7,10 +7,15 @@
 |__|  \___)(__\_|_)\_______)(__|  \__)(__\_|_)    |___|\__/|___|     \___|\____\)(__________)|__|  \___)
 
 
-Nama  : Rizki M Nur
-NPM   : 07352211106
-Kelas : 5IF2
+## Identitas
+- **Nama**  : Rizki M Nur
+- **NPM**   : 07352211106
+- **Kelas** : 5IF2
 
------
-Cara Menjalankan Program
-```dart direktori/nama_file.dart```
+---
+
+## Cara Menjalankan Program
+Jalankan perintah berikut di terminal:
+
+```bash
+dart direktori/nama_file.dart
